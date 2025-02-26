@@ -1,23 +1,59 @@
-Hallo semua🙌,perkenalkan aku sabrina👩‍💻,kembali lagi belajar bikin website dasar html css dan javascript menggunakan framwork/libary boostrap.
+Berikut revisi README agar lebih estetis, rapi, dan mudah dibaca di GitHub:  
 
-Disini referensi yang ku pakai atau tutorial nya dari Sesi 3 cuy University Youtube Dea Afrizal
+---
 
-# Link Playlist Cuy University ❤️
-https://www.youtube.com/watch?v=igwNyjc7Ii8&list=PLc6SEcJkQ6DzVY6THm3prtUU6HKMqpZSH&index=3
+# 🌐 **Belajar Website Dasar dengan HTML, CSS, dan Bootstrap**  
 
-# Penjelasan Boostrap itu apa ?
-Boostrap = Kerangka kerja atau framework dari css yang memudahkan kita dalam mendesain website.
+👋 **Hallo semua!** 🙌  
+Perkenalkan, aku **Sabrina** 👩‍💻, saat ini aku kembali belajar membuat **website dasar** menggunakan **HTML, CSS, dan JavaScript**, serta **framework/library Bootstrap** untuk mempercepat proses desain.  
 
-Kali ini Kita Menggunakan CDN
+🎥 **Tutorial yang aku gunakan:**  
+📌 *Sesi 3 - Cuy University by Dea Afrizal*  
 
-# Apa itu Cdn ?
-CDN =  Content Delivery Network, css ataupun javascript punya boostrap atau file tersebut dari internet,engga perlu download ataupun install,tinggal taruh link nya saja.
+---
 
-# Keuntungan Cdn 
-1. Terupdate selalu,jika ada update apapun, tanpa kita melakukan apapun.
-2. tidak berhasil ketika tidak ada koneksi internet atau cdn dari sana nya down.
+## 📺 **Link Playlist Cuy University ❤️**  
+🔗 [Tonton di YouTube](https://www.youtube.com/watch?v=igwNyjc7Ii8&list=PLc6SEcJkQ6DzVY6THm3prtUU6HKMqpZSH&index=3)  
 
-# Link via CDN boostrap
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+---
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+## 🎨 **Apa itu Bootstrap?**  
+🔹 **Bootstrap** adalah *framework CSS* yang memudahkan kita dalam mendesain tampilan website secara responsif dan cepat.  
+
+📌 *Dalam proyek ini, kita akan menggunakan Bootstrap via CDN!*  
+
+---
+
+## 🌍 **Apa itu CDN?**  
+🛠️ **CDN (Content Delivery Network)** adalah layanan yang memungkinkan kita menggunakan **CSS & JavaScript Bootstrap langsung dari internet**, tanpa perlu mendownload atau menginstalnya secara manual.  
+
+✅ **Keuntungan Menggunakan CDN:**  
+1. **Selalu Terupdate** – Jika ada pembaruan Bootstrap, kita otomatis mendapatkan versi terbaru tanpa perlu update manual.  
+2. **Tidak Memakan Ruang Penyimpanan** – Tidak perlu menyimpan file Bootstrap di lokal, cukup gunakan link CDN.  
+3. ❗ **Kekurangan:** Tidak berfungsi saat **tidak ada koneksi internet** atau jika server CDN mengalami gangguan.  
+
+---
+
+## 🔗 **CDN Bootstrap yang Digunakan**  
+
+📌 **Tambahkan ini di bagian `<head>` HTML:**  
+```html
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
+    crossorigin="anonymous">
+```
+
+📌 **Tambahkan ini sebelum `</body>` untuk JavaScript Bootstrap:**  
+```html
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" 
+    crossorigin="anonymous"></script>
+```
+
+---
+
+✨ **Selamat belajar & happy coding!** 🚀  
+
+---
