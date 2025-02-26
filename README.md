@@ -1,6 +1,3 @@
-Berikut revisi README agar lebih estetis, rapi, dan mudah dibaca di GitHub:  
-
----
 
 # 🌐 **Belajar Website Dasar dengan HTML, CSS, dan Bootstrap**  
 
